@@ -1,0 +1,13 @@
+기능수가 제한된 작은 프로젝트를 위해 아주 유용하다. 
+
+파일 작명법
+
+기능-서버/클라-모듈/.js
+
+feature.server.controller.js
+
+->feature.s.c.js
+
+feature.client.controller.js
+
+->feature.c.c.js

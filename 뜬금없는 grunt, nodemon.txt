@@ -1,0 +1,20 @@
+grunt 모듈로서 여러 작업을 묶어서 관리한다. 개발모드- 테스트 모드 
+nodemon 서버 재시작 필요없이 변화를 감지한다. 요걸 그런트 grunt-nodemon 모듈로서 관리한다.
+
+Gruntfile.js에 정의함!!
+
+
+Grunt-,mocha,protractor,karma??
+
+테스트 자동화!!
+
+프로트랙터를 위한 단독형 webdriver서버 받기
+node node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager update 
+
+노드 인스펙터는 수동으로 설치했음
+npm install grunt-node-inspector --save-dev
+
+
+서버,클라 온갖 테스트 프레임워크 다 설치함..OTL;; 
+
+클라이언트 패키지 매니저인 bower인가 설치해야함 t.t

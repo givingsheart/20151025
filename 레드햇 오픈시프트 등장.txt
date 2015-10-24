@@ -1,0 +1,6 @@
+
+처음엔 국산 무료 paas를 보다가 그걸 지원하는게 오픈시프트인걸 알고 갈아탐(왜냐면 노드js 없어서)
+
+rhc 로긴 실패 처리
+
+http://stackoverflow.com/questions/28896733/rhc-setup-gives-error-no-such-file-dl-import

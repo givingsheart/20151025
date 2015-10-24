@@ -1,0 +1,1 @@
+app/view에 signin.ejs signup.ejs 만들고 User 컨트롤러를 변경해서 해당 뷰와 데이터를 연결한다. 라우팅 처리도!
