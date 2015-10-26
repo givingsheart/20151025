@@ -1,0 +1,6 @@
+1.패키지 매니저로 gen emmet 설치후 div + Tab
+2.사이드바 열고 폴더채로 드래그 드랍  = 폴더 트리
+3.키바인딩
+4. 주석처리  ctrl + /
+5.한글 입력처리 iMESupport , ConverToUTF8, sideBarEn..., utf-8 euc-kr
+6.테마, 컬러등
