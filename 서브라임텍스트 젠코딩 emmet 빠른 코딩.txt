@@ -4,3 +4,4 @@
 4. 주석처리  ctrl + /
 5.한글 입력처리 iMESupport , ConverToUTF8, sideBarEn..., utf-8 euc-kr
 6.테마, 컬러등
+7.git 배우기 & gist 
